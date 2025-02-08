@@ -51,4 +51,4 @@ Feel free to fork this repository, make changes, and submit pull requests! Contr
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
-<img src="preview.PNG" alt="Game Screenshot" width="500"/>
+<img src="preview.png" alt="Game Screenshot" width="500"/>
